@@ -6,7 +6,7 @@ The data source of this exploration is from [vega-datasets](https://github.com/v
 
 ## Description
 
-In my notebook, I performed:
+In my [notebook](https://github.com/krieya/Movie-Data-Exploration/blob/master/EDA_Visualization.ipynb), I performed:
 - Exploratory Data Analysis (EDA)
 - Data wrangling
 - Proposing research questions
